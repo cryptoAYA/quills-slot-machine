@@ -13,7 +13,7 @@ const raccoonImages = [
     "images/resim11.jpeg",
     "images/resim12.jpeg",
     "images/resim13.jpeg",
-    "images/resim14.png",
+    "images/resim14.jpeg",
     "images/resim15.jpeg"
   ];
   
